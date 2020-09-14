@@ -10,7 +10,7 @@
 
 body {
     height: 100vh;
-    background: url('background.jpg');
+    background: url('https://raw.githubusercontent.com/loli-master/loli-master.github.io/master/background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
