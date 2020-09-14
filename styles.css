@@ -10,7 +10,7 @@
 
 body {
     height: 100vh;
-    background: url('../image/background.jpg');
+    background: url('background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
